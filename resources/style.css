@@ -1,0 +1,22 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 60px;
+  text-align: center;
+  background-color: DarkSlateGray;
+  color: white
+}
+h2 {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: DarkSlateGray;
+  color: white
+}
+h3 {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: DarkSlateGray;
+  color: white
+}
+a {
+  color: white;
+}
